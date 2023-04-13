@@ -1,0 +1,1 @@
+gcc -Wl,--stack,80000000 -o fdtd.exe fdtd.c
