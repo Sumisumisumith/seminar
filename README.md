@@ -1,5 +1,5 @@
 # 2022鈴木ゼミナール FDTD法による電磁界解析
-![gif](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
+![gif](ゼミナール/2dFDTD_3d_thr.gif)
 
 ## 1. 概要
 FDTD法を用いた電磁界解析とアンテナ解析
